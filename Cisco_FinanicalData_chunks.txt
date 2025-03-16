@@ -1,0 +1,216 @@
+Cash and cash equivalents: October 29, 2022: 7292
+Cash and cash equivalents: January 28, 2023: 9009
+Cash and cash equivalents: April 29, 2023: 8044
+Cash and cash equivalents: July 29, 2023: 10123
+Cash and cash equivalents: October 28, 2023: 9602
+Cash and cash equivalents: January 27, 2024: 13715
+Cash and cash equivalents: April 27, 2024: 8913
+Cash and cash equivalents: July 27, 2024: 7508
+Investments: October 29, 2022: 12492
+Investments: January 28, 2023: 13052
+Investments: April 29, 2023: 15244
+Investments: July 29, 2023: 16023
+Investments: October 28, 2023: 13921
+Investments: January 27, 2024: 11956
+Investments: April 27, 2024: 9857
+Investments: July 27, 2024: 10346
+Accounts receivable net: October 29, 2022: 5439
+Accounts receivable net: January 28, 2023: 5237
+Accounts receivable net: April 29, 2023: 5104
+Accounts receivable net: July 29, 2023: 5854
+Accounts receivable net: October 28, 2023: 4833
+Accounts receivable net: January 27, 2024: 4884
+Accounts receivable net: April 27, 2024: 5127
+Accounts receivable net: July 27, 2024: 6685
+Inventories: October 29, 2022: 2664
+Inventories: January 28, 2023: 3140
+Inventories: April 29, 2023: 3474
+Inventories: July 29, 2023: 3644
+Inventories: October 28, 2023: 3342
+Inventories: January 27, 2024: 3209
+Inventories: April 27, 2024: 3118
+Inventories: July 27, 2024: 3373
+Financing receivables net: October 29, 2022: 3683
+Financing receivables net: January 28, 2023: 3557
+Financing receivables net: April 29, 2023: 3402
+Financing receivables net: July 29, 2023: 3352
+Financing receivables net: October 28, 2023: 3414
+Financing receivables net: January 27, 2024: 3476
+Financing receivables net: April 27, 2024: 3443
+Financing receivables net: July 27, 2024: 3338
+Other current assets: October 29, 2022: 4571
+Other current assets: January 28, 2023: 4520
+Other current assets: April 29, 2023: 4682
+Other current assets: July 29, 2023: 4352
+Other current assets: October 28, 2023: 4547
+Other current assets: January 27, 2024: 4887
+Other current assets: April 27, 2024: 5428
+Other current assets: July 27, 2024: 5612
+Total current assets: October 29, 2022: 36141
+Total current assets: January 28, 2023: 38515
+Total current assets: April 29, 2023: 39950
+Total current assets: July 29, 2023: 43348
+Total current assets: October 28, 2023: 39659
+Total current assets: January 27, 2024: 42127
+Total current assets: April 27, 2024: 35886
+Total current assets: July 27, 2024: 36862
+Property and equipment net: October 29, 2022: 1972
+Property and equipment net: January 28, 2023: 1964
+Property and equipment net: April 29, 2023: 2047
+Property and equipment net: July 29, 2023: 2085
+Property and equipment net: October 28, 2023: 2004
+Property and equipment net: January 27, 2024: 2005
+Property and equipment net: April 27, 2024: 2000
+Property and equipment net: July 27, 2024: 2090
+Financing receivables net: October 29, 2022: 3618
+Financing receivables net: January 28, 2023: 3554
+Financing receivables net: April 29, 2023: 3393
+Financing receivables net: July 29, 2023: 3483
+Financing receivables net: October 28, 2023: 3324
+Financing receivables net: January 27, 2024: 3364
+Financing receivables net: April 27, 2024: 3251
+Financing receivables net: July 27, 2024: 3376
+Goodwill: October 29, 2022: 38160
+Goodwill: January 28, 2023: 38388
+Goodwill: April 29, 2023: 38369
+Goodwill: July 29, 2023: 38535
+Goodwill: October 28, 2023: 38900
+Goodwill: January 27, 2024: 39087
+Goodwill: April 27, 2024: 58633
+Goodwill: July 27, 2024: 58660
+Purchased intangible assets net: October 29, 2022: 2360
+Purchased intangible assets net: January 28, 2023: 2134
+Purchased intangible assets net: April 29, 2023: 1966
+Purchased intangible assets net: July 29, 2023: 1818
+Purchased intangible assets net: October 28, 2023: 1914
+Purchased intangible assets net: January 27, 2024: 1678
+Purchased intangible assets net: April 27, 2024: 11819
+Purchased intangible assets net: July 27, 2024: 11219
+Deferred tax assets: October 29, 2022: 4891
+Deferred tax assets: January 28, 2023: 5321
+Deferred tax assets: April 29, 2023: 5817
+Deferred tax assets: July 29, 2023: 6576
+Deferred tax assets: October 28, 2023: 7102
+Deferred tax assets: January 27, 2024: 7338
+Deferred tax assets: April 27, 2024: 5527
+Deferred tax assets: July 27, 2024: 6262
+Other assets: October 29, 2022: 5912
+Other assets: January 28, 2023: 5964
+Other assets: April 29, 2023: 5987
+Other assets: July 29, 2023: 6007
+Other assets: October 28, 2023: 5879
+Other assets: January 27, 2024: 5575
+Other assets: April 27, 2024: 5882
+Other assets: July 27, 2024: 5944
+Total Assets: October 29, 2022: 93054
+Total Assets: January 28, 2023: 95840
+Total Assets: April 29, 2023: 97529
+Total Assets: July 29, 2023: 101852
+Total Assets: October 28, 2023: 98782
+Total Assets: January 27, 2024: 101174
+Total Assets: April 27, 2024: 122998
+Total Assets: July 27, 2024: 124413
+Short-term debt: October 29, 2022: 1249
+Short-term debt: January 28, 2023: 1250
+Short-term debt: April 29, 2023: 1731
+Short-term debt: July 29, 2023: 1733
+Short-term debt: October 28, 2023: 990
+Short-term debt: January 27, 2024: 4936
+Short-term debt: April 27, 2024: 11891
+Short-term debt: July 27, 2024: 11341
+Accounts payable: October 29, 2022: 2316
+Accounts payable: January 28, 2023: 2329
+Accounts payable: April 29, 2023: 2442
+Accounts payable: July 29, 2023: 2313
+Accounts payable: October 28, 2023: 2084
+Accounts payable: January 27, 2024: 1848
+Accounts payable: April 27, 2024: 2054
+Accounts payable: July 27, 2024: 2304
+Income taxes payable: October 29, 2022: 890
+Income taxes payable: January 28, 2023: 2200
+Income taxes payable: April 29, 2023: 3132
+Income taxes payable: July 29, 2023: 4235
+Income taxes payable: October 28, 2023: 2380
+Income taxes payable: January 27, 2024: 1876
+Income taxes payable: April 27, 2024: 1867
+Income taxes payable: July 27, 2024: 1439
+Accrued compensation: October 29, 2022: 2907
+Accrued compensation: January 28, 2023: 3187
+Accrued compensation: April 29, 2023: 3352
+Accrued compensation: July 29, 2023: 3984
+Accrued compensation: October 28, 2023: 3039
+Accrued compensation: January 27, 2024: 3216
+Accrued compensation: April 27, 2024: 3211
+Accrued compensation: July 27, 2024: 3608
+Deferred revenue: October 29, 2022: 12578
+Deferred revenue: January 28, 2023: 13109
+Deferred revenue: April 29, 2023: 13249
+Deferred revenue: July 29, 2023: 13908
+Deferred revenue: October 28, 2023: 13812
+Deferred revenue: January 27, 2024: 14011
+Deferred revenue: April 27, 2024: 15751
+Deferred revenue: July 27, 2024: 16249
+Other current liabilities: October 29, 2022: 4956
+Other current liabilities: January 28, 2023: 5177
+Other current liabilities: April 29, 2023: 4813
+Other current liabilities: July 29, 2023: 5136
+Other current liabilities: October 28, 2023: 4730
+Other current liabilities: January 27, 2024: 4964
+Other current liabilities: April 27, 2024: 5334
+Other current liabilities: July 27, 2024: 5643
+Total current liabilities: October 29, 2022: 24896
+Total current liabilities: January 28, 2023: 27252
+Total current liabilities: April 29, 2023: 28719
+Total current liabilities: July 29, 2023: 31309
+Total current liabilities: October 28, 2023: 27035
+Total current liabilities: January 27, 2024: 30851
+Total current liabilities: April 27, 2024: 40108
+Total current liabilities: July 27, 2024: 40584
+Long-term debt: October 29, 2022: 7629
+Long-term debt: January 28, 2023: 7637
+Long-term debt: April 29, 2023: 6663
+Long-term debt: July 29, 2023: 6658
+Long-term debt: October 28, 2023: 6660
+Long-term debt: January 27, 2024: 6669
+Long-term debt: April 27, 2024: 20102
+Long-term debt: July 27, 2024: 19621
+Income taxes payable: October 29, 2022: 7835
+Income taxes payable: January 28, 2023: 6609
+Income taxes payable: April 29, 2023: 6725
+Income taxes payable: July 29, 2023: 5756
+Income taxes payable: October 28, 2023: 5790
+Income taxes payable: January 27, 2024: 3390
+Income taxes payable: April 27, 2024: 2869
+Income taxes payable: July 27, 2024: 3985
+Deferred revenue: October 29, 2022: 10441
+Deferred revenue: January 28, 2023: 10818
+Deferred revenue: April 29, 2023: 11011
+Deferred revenue: July 29, 2023: 11642
+Deferred revenue: October 28, 2023: 11847
+Deferred revenue: January 27, 2024: 11760
+Deferred revenue: April 27, 2024: 11724
+Deferred revenue: July 27, 2024: 12226
+Other long-term liabilities: October 29, 2022: 1981
+Other long-term liabilities: January 28, 2023: 2050
+Other long-term liabilities: April 29, 2023: 2116
+Other long-term liabilities: July 29, 2023: 2134
+Other long-term liabilities: October 28, 2023: 2240
+Other long-term liabilities: January 27, 2024: 2253
+Other long-term liabilities: April 27, 2024: 2427
+Other long-term liabilities: July 27, 2024: 2540
+Total liabilities: October 29, 2022: 52782
+Total liabilities: January 28, 2023: 54366
+Total liabilities: April 29, 2023: 55234
+Total liabilities: July 29, 2023: 57499
+Total liabilities: October 28, 2023: 53572
+Total liabilities: January 27, 2024: 54923
+Total liabilities: April 27, 2024: 77230
+Total liabilities: July 27, 2024: 78956
+Total equity: October 29, 2022: 40272
+Total equity: January 28, 2023: 41474
+Total equity: April 29, 2023: 42295
+Total equity: July 29, 2023: 44353
+Total equity: October 28, 2023: 45210
+Total equity: January 27, 2024: 46251
+Total equity: April 27, 2024: 45768
+Total equity: July 27, 2024: 45457
